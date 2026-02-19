@@ -24,6 +24,7 @@
     "react-dom": "^18.3.1",
     "react-joystick-component": "^6.2.1",
     "react-redux": "^9.2.0",
+    "regenerator-runtime": "^0.14.1",
     "sass": "^1.84.0",
     "styled-components": "^6.3.9",
     "swiper": "^8.4.7",
